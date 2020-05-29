@@ -1,0 +1,56 @@
+select.select-no-default::-ms-expand {	display: none; }
+select.select-no-default{
+    -webkit-appearance: none;
+    appearance: none;
+}
+select.select-no-default {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5,9l7,9l7-9H5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center right 15px;
+  background-size: 14px auto;
+}
+.search-group {
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.search-group input {
+  border-radius: 0;
+  height: 56px;
+}
+.search-group select {
+  border-radius: 4px 0 0 4px;
+  height: 56px;
+  border-right-color: transparent !important;
+  padding-left: 15px;
+  padding-right: 30px;
+}
+.search-group .btn {
+  height: 56px;
+  width: 100%;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.search-group select option {
+  line-height: 30px;
+}
+.row-0 {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+.row-0 > * {
+  padding: 0;
+}
+
+.elh-footer-widget-area .fa{
+  min-width: 17px;
+  text-align: center;
+}
+
+.mini-section {
+  margin-top: 100px;
+}
