@@ -68,7 +68,7 @@ html {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 1.4rem;
   color: #111111;
   line-height: 1.857143;
@@ -125,7 +125,7 @@ h5,
 h6,
 .h6 {
   line-height: 1.208333;
-  font-family: "Roboto Slab", sans-serif;
+  /* font-family: "Roboto Slab", sans-serif; */
   font-weight: 700;
 }
 
