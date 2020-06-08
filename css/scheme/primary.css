@@ -175,7 +175,7 @@ a:hover {
 
 /*** Secondary Background ***/
 footer {
-  background-color: #232b2d;
+  background-color: #006587;
 }
 
 /***
@@ -290,3 +290,15 @@ Button hover to white ***/
 .navbar.fix-nav.style-2 .navbar-nav > li:hover > a {
   color: #ff6800;
 }
+
+
+.elh-section-header .elh-section-title:after,
+.instructor-comments {
+  background-color: #f8ab11 !important;
+}
+
+.elh-section-header .elh-section-title span{
+  color: #f8ab11;
+}
+
+.instructor-comments

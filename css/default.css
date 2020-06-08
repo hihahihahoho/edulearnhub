@@ -71,7 +71,7 @@ footer.elh-kids-footer .elh-footer-lower-area .copyright a:hover,
 .elh-event-single .elh-event-location i,
 .elh-event-single .elh-event-schedule table th,
 .elh-event-single .elh-event-schedule .elh-schedule-speaker .elh-schedule-speaker-body h5 {
-  color: #007b93;
+  color: #00778b;
 }
 
 /*** Background Color ***/
@@ -119,11 +119,11 @@ footer.elh-kids-footer .elh-footer-lower-area .copyright a:hover,
 .widget-course-share,
 .elh-lesson-list .elh-lesson-item a.running-lesson,
 .elh-student-course-tab .nav-tabs > li.active > a {
-  background-color: #007b93;
+  background-color: #00778b;
 }
 
 .plyr input[type=range]:active::-webkit-slider-thumb {
-  background-color: #007b93;
+  background-color: #00778b;
 }
 
 /*** Border Color ***/
@@ -155,12 +155,12 @@ input:not([type=submit]):not([type=radio]):not([type=checkbox]):focus, input:not
 .navbar.navbar-lesson .elh-lesson-list-toggle,
 .elh-student-course-tab .nav-tabs > li.active > a,
 .elh-post-entry blockquote {
-  border-color: #007b93;
+  border-color: #00778b;
 }
 
 /*** Fill Color ***/
 .plyr .plyr__play-large svg {
-  fill: #007b93;
+  fill: #00778b;
 }
 
 /*** Transparent Color   ***/
@@ -182,8 +182,8 @@ footer {
 Button hover to white ***/
 .btn:hover, .btn:hover:focus, .btn:hover:visited, .btn:hover:active, .btn:hover:focus:visited, .btn:hover:focus:active, .btn:hover:focus:visited:active {
   background-color: transparent;
-  color: #007b93;
-  border-color: #007b93;
+  color: #00778b;
+  border-color: #00778b;
 }
 
 /***  Color mixin ***/
@@ -281,21 +281,21 @@ Button hover to white ***/
 }
 
 .btn.btn-shade:hover {
-  color: #007b93 !important;
+  color: #00778b !important;
 }
 
 /*** Responsive Color ***/
 .navbar .navbar-toggle {
-  border-color: #007b93;
-  background-color: #007b93;
+  border-color: #00778b;
+  background-color: #00778b;
 }
 
 .navbar .navbar-toggle.collapsed .icon-bar {
-  background-color: #007b93;
+  background-color: #00778b;
 }
 
 .navbar.fix-nav.style-2 .navbar-toggle .icon-bar {
-  background-color: #007b93;
+  background-color: #00778b;
 }
 
 .navbar.fix-nav.style-2 .navbar-nav > li:hover > a {

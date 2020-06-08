@@ -229,7 +229,7 @@ a:hover {
 .elh-section-header.text-left .elh-section-title:before {
   left: 0;
   margin-left: 0;
-  width: 250px;
+  width: 100%;
 }
 
 .elh-section-header.text-left .elh-section-title:after {
@@ -936,7 +936,7 @@ button:focus {
   height: 688px;
   position: relative;
 }
-.elh-banner .elh-banner-item::after {
+/* .elh-banner .elh-banner-item::after {
   content: "";
   background: rgb(255, 255, 255);
   background: linear-gradient(0deg, rgba(255,255,255,1) 20%, rgba(255,255,255,0) 100%);
@@ -946,7 +946,7 @@ button:focus {
   position: absolute;
   left: 0;
   bottom: 0;
-}
+} */
 .elh-banner .banner-overlay {
   background-color: rgba(0, 0, 0, 0.4);
   position: absolute;
@@ -972,13 +972,22 @@ button:focus {
   font-size: 2.2rem;
   font-weight: 400;
   margin: 0;
-  text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1);
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  color: white;
+  margin-bottom: 10px;
+  /* text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1); */
 }
 
 .elh-banner .banner-content .elh-banner-title {
-  font-size: 6.4rem;
+  font-size: 5.4rem;
   margin: 0;
-  text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1);
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  color: white;
+  /* text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1); */
 }
 
 .elh-banner .banner-content .elh-banner-title + .elh-banner-subtitle {
@@ -3938,6 +3947,46 @@ Blog Single
 /*------------------------------------
 25. Partner
 ------------------------------------*/
+.no-padding {
+  padding: 0 !important;
+}
+.elh-footer-lower-area .footer-menu-left {
+  padding-top: 6px !important;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.partner-lgs {
+  display: flex;
+  flex-wrap: wrap;
+}
+.partner-lg {
+  width: 16.6666%;
+  display: block;
+}
+.partner-lg {
+  max-width: 100%;
+}
+.partner-lg img {
+  max-width: 100%;
+}
+@media (max-width: 1200px) {
+  .partner-lg {
+    width: 25%;
+  }
+}
+@media (max-width: 767px) {
+  .partner-lg {
+    width: 33%;
+  }
+}
+@media (max-width: 563px) {
+  .partner-lg {
+    width: 50%;
+  }
+}
 .partner-logoes {
   zoom: 1;
   overflow: hidden;
@@ -6373,3 +6422,7 @@ footer.elh-kids-footer .elh-footer-lower-area .copyright a {
   margin-top: 0;
 }
 /*# sourceMappingURL=style.css.map */
+
+.pop-section--block {
+  background-color: #f5f5f5;
+}
