@@ -1,16 +1,16 @@
-☐ 1	Màu sắc	thiếu màu cam nhận diện
+✔ 1	Màu sắc	thiếu màu cam nhận diện @done(20-06-09 11:57)
 ✔ 3	Hình ảnh 	(Wellspring sẽ gửi ảnh thay lại): Ảnh background đang dùng sai của WSSG, ảnh bloc 1 chưa tiêu biểu. (Nam BĐT: Ảnh nền nên để nguyên không chuyển nhạt dần như thế) @done(20-06-08 17:41)
 ✔ 4	Về chúng tôi	ok, click vào ra trang Giới thiệu của web chính @done(20-06-08 18:38)
 ✔ 5	Xem giới thiệu	 ok, click vào ra trailer gt Elearning (PMC đang dựng) @done(20-06-08 17:41)
 ✔ 6	3 bloc: Giáo dục toàn diện, Đào tạo tối ưu, Uy tín tuyệt đối	bỏ  (Nam BĐT - Phần này có thể giữa để nêu những điểm nổi bật của hệ thống) @done(20-06-08 17:41)
-☐ 7	Tìm kiếm các khóa học: 	ok (Nam BĐT - Nên có 3 tùy chọn tìm kiếm, Lớp, Môn, Từ khóa)
+✔ 7	Tìm kiếm các khóa học: 	ok (Nam BĐT - Nên có 3 tùy chọn tìm kiếm, Lớp, Môn, Từ khóa) @done(20-06-09 11:57)
 ✔ 9	3 bloc Sự kiện, Tin tức, Phản hồi	bỏ vì trùng trang chủ web trường. Đề nghị đưa option khác thay = 3 bloc testimonial 3 ý kiến trải nghiệm khóa học Elearning @done(20-06-08 18:46)
 ✔ 10	Đội ngũ giáo viên	bỏ @done(20-06-08 17:41)
 ✔ 11	Đối tác	ok, chính là đối tác trên trang chủ trường @done(20-06-08 17:56)
 ✔ 12	Footer	ko để màu đen, để y như footer trang chủ trường @done(20-06-08 18:20)
 ✔ 13	Slide title	Phần này ko nên dùng shadow, nhất lại còn shadow trắng. Để hiện đại thì mình để chữ thường thôi, background có thể thêm 1 lớp gradient màu tối và chữ nét đậm, màu trắng/cam ở phía trên sẽ nổi hơn @done(20-06-08 18:34)
 ✔ 14	Title các phần Cấp TiH, THCS, THPT	Có thể thử có nền hoặc khung để phân biệt rõ ràng hơn các cấp @done(20-06-08 18:28)
-☐ 15	Ô tìm kiếm	Phổ thông >>> Trung học phổ thông; có thể bổ sung thêm chức năng tìm kiếm nâng cao/ filter (ví dụ như lớp, môn học, bài giảng hay bài ôn tập...)
+✔ 15	Ô tìm kiếm	Phổ thông >>> Trung học phổ thông; có thể bổ sung thêm chức năng tìm kiếm nâng cao/ filter (ví dụ như lớp, môn học, bài giảng hay bài ôn tập...) @done(20-06-09 11:54)
 ✔ 16	Các title của các phần	Cái gạch bên dưới có thể cân nhắc đổi sang màu cam để bổ sung thêm màu nhận diện @done(20-06-08 18:26)
 ☐ 17	Nền của các menu, logo là màu trắng	cảm giác rất chói, không rõ chữ, logo, ranh giới giữa nền và logo
 ☐ 18	menu	hiện đã đủ các trường thông tin chính chưa nhỉ? nếu có sitemap chuẩn thì thực hiện theo đó.
