@@ -420,7 +420,7 @@ textarea {
   background-color: transparent;
   border: 1px solid #e7e7e7;
   width: 100%;
-  padding: 8px 30px;
+  padding: 8px 20px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   outline: none;
@@ -973,7 +973,7 @@ button:focus {
   font-weight: 400;
   margin: 0;
   display: inline-block;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 123, 147, 0.7);
   padding: 10px;
   color: white;
   margin-bottom: 10px;
@@ -984,7 +984,7 @@ button:focus {
   font-size: 5.4rem;
   margin: 0;
   display: inline-block;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 123, 147, 0.7);
   padding: 10px;
   color: white;
   /* text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 10px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1); */
@@ -1295,7 +1295,7 @@ button:focus {
 .elh-bg-11 .elh-overlay,
 .elh-bg-14 .elh-overlay {
   color: #ffffff;
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 .elh-bg-1 {
@@ -2358,7 +2358,7 @@ button:focus {
 15. Word From Instructor
 ------------------------------------*/
 .instructor-comments {
-  color: #ffffff;
+  color: #000;
   border-radius: 3px;
 }
 
@@ -2384,7 +2384,7 @@ button:focus {
 
 .instructor-comment .instructor-thumb {
   border-radius: 50%;
-  width: 100px;
+  width: 140px;
   margin: 0 auto 22px;
   overflow: hidden;
 }
@@ -3953,10 +3953,14 @@ Blog Single
 .elh-footer-lower-area .footer-menu-left {
   padding-top: 6px !important;
 }
-.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
-    display: block;
-    max-width: 100%;
-    height: auto;
+.carousel-inner > .item > a > img,
+.carousel-inner > .item > img,
+.img-responsive,
+.thumbnail a > img,
+.thumbnail > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 .partner-lgs {
   display: flex;
@@ -6425,4 +6429,12 @@ footer.elh-kids-footer .elh-footer-lower-area .copyright a {
 
 .pop-section--block {
   background-color: #f5f5f5;
+}
+
+.mb10 {
+  margin-bottom: 10px !important;
+}
+
+.u {
+  text-transform: uppercase !important;
 }
