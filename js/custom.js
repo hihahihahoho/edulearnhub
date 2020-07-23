@@ -516,3 +516,9 @@ $(document).ready(function ($) {
         $('#lessonContent .plyr-video').css('max-width', $(window).height() * 1.7776);
     });
 });
+
+$(document).ready(function ($) {
+  $('[name=sidbar]').on('change', function() {
+    $('[name=sidbar]').not(this).prop('checked', false);
+  })
+})

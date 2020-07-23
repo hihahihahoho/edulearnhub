@@ -2105,3 +2105,8 @@ select.select-no-default {
     background-color: #f7f7f7;
   }
 }
+
+.elh-sub-title{
+  color: #f8ab11;
+  font-weight: bold;
+}
